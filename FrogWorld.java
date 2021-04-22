@@ -79,7 +79,7 @@ public class FrogWorld extends World
 
 
 
-        //third row of Trucks, all y = 90, speed of 10
+        //third row of Trucks, all y = 90, speed of -10
         
         
         
