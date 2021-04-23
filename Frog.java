@@ -8,10 +8,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Frog extends Actor
 {
-    public boolean isUpPress;
-    public boolean isDownPress;
-    public boolean isRightPress;
-    public boolean isLeftPress;
+    private boolean isUpPress;
+    private boolean isDownPress;
+    private boolean isRightPress;
+    private boolean isLeftPress;
     
     public Frog()
     {
